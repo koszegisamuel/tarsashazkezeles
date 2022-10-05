@@ -135,11 +135,11 @@ header.sticky .navigation {
     margin-right: 40px;
     margin-left: 60px;
     transition: 0.3s;
-}
+    }
 
 .menu:hover {
     color: #021138;
-    
+        
 }
 .invisible {
     background-color: #004c50;
